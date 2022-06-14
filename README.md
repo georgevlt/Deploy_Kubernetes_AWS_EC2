@@ -366,3 +366,4 @@ sudo kubectl get nodes
   <img src="cover_kubernetes_mini.png" alt="Setup Kubernetes on Ubuntu 18.04 - video tutoriall">
 </a></p>
 </p>
+
